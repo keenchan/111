@@ -15,7 +15,7 @@ pathlib2==2.3.3
 pluggy==0.8.1
 pvlib==0.6.3
 pvmismatch==4.1
-py==1.7.0
+py==1.10.0
 pyparsing==2.3.1
 pytest==4.1.1
 pytest-cov==2.6.1
